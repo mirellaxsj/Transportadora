@@ -1,5 +1,5 @@
 # Transportadora 
-## Objetivo: Projeto full stack, exemplo de conceitos como:
+## Objetivo: Projeto back end, exemplo de conceitos como:
 - MVC (Model View Controller)
 - CRUD (Create Read Uptade Delete)
 - API (Application Programming Interface)
