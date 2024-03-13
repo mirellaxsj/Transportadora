@@ -1,4 +1,4 @@
-# Transportadora XPTO
+# Transportadora 
 ## Objetivo: Projeto full stack, exemplo de conceitos como:
 - MVC (Model View Controller)
 - CRUD (Create Read Uptade Delete)
